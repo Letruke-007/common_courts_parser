@@ -1,0 +1,32 @@
+{
+    "status_code": [
+        200,
+        200,
+        200
+    ],
+    "responder": [
+        "иванов владимир юрьевич",
+        "круковская екатерина владимировна",
+        "Тарханов Эмиль Валерьевич"
+    ],
+    "case_number": [
+        "02-0134/3/2024",
+        "02-3303/178/2024",
+        "no_result"
+    ],
+    "case_status": [
+        "Вступило в силу, 05.03.2024",
+        "Вступило в силу, 28.09.2024",
+        "no_result"
+    ],
+    "case_category": [
+        "О взыскании платы за жилую площадь и коммунальные платежи, тепло и электроэнергию",
+        "О взыскании платы за жилую площадь и коммунальные платежи, тепло и электроэнергию",
+        "no_result"
+    ],
+    "link": [
+        "https://mos-sud.ru/3/cases/civil/details/7339024b-d74b-4af2-acab-1c8897570f27?formType=fullForm&caseNumber=&participant=%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2+%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80+%D1%8E%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&uid=&year=&caseDateFrom=25.01.2024&caseDateTo=08.02.2024&caseFinalDateFrom=&caseFinalDateTo=&caseLegalForceDateFrom=&caseLegalForceDateTo=&category=&judge=&publishingState=&hearingRangeDateFrom=&hearingRangeDateTo=&sessionRoom=&sessionRangeTimeFrom=&sessionRangeTimeTo=&sessionType=&docsDateFrom=&docsDateTo=&documentStatus=&documentType=",
+        "https://mos-sud.ru/178/cases/civil/details/2cf7dcee-6631-4a66-9288-62264dce3213?formType=fullForm&caseNumber=&participant=%D0%BA%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0+%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BD%D0%B0&uid=&year=&caseDateFrom=06.09.2024&caseDateTo=20.09.2024&caseFinalDateFrom=&caseFinalDateTo=&caseLegalForceDateFrom=&caseLegalForceDateTo=&category=&judge=&publishingState=&hearingRangeDateFrom=&hearingRangeDateTo=&sessionRoom=&sessionRangeTimeFrom=&sessionRangeTimeTo=&sessionType=&docsDateFrom=&docsDateTo=&documentStatus=&documentType=",
+        "no_result"
+    ]
+}
